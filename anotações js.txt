@@ -15,7 +15,14 @@ precedencia de variaveis
 > < >=.....(começa sempre da esquerda aqui)
 ! && || (essa é a senquecia da precedencia
 
+vetor 
+let num [5,4,3,2]
+num [3]
+num.push(7)
+num.length
+num.sort()-coloca em ordem cresente
+num.indexOf(7)
 
 
-
+estudar: funcões, objetos, modularização, regex, json, ajax, nodejs,  
      
